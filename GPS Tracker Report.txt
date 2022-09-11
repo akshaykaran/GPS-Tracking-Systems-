@@ -1,0 +1,31 @@
+--> cover page
+--> certificate of approval 
+--> Acknowledgent
+--> contents
+--> overview of organisation
+--> introduction of project (GPS TRACKING SYSTEMS)
+--> What is iot? 
+--> why iot?
+--> system environment 
+--> softwares used (arduino IDE,........................)
+--> datA flow diagram (description and diagram)
+
+--> Application 
+	-> AIM
+	->THEORY(ABOUT THE DEVICES USED)
+	->THINGS REQ.
+	->PROGRAM CODE	
+	->PROGRAM DESCRIPTION 
+	->OUTPUT( list of figures(add everything web and code output)) 
+-->shortcommings/ drawbacks
+--> CONCLUSION  
+--> bibiography
+-->the end
+
+
+
+
+
+TALK.TO
+
+
